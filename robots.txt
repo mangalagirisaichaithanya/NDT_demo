@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.netdesire.ae/sitemap.xml
+
+# Disallow non-content directories
+Disallow: /assets/
